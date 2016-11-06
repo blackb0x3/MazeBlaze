@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Bricks\brick1.png</Source>
+      <Name>Images\Bricks\brick1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick1.xnb</Output>
+      <Time>2016-03-03T23:46:15.239209+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick2.png</Source>
+      <Name>Images\Bricks\brick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick2.xnb</Output>
+      <Time>2016-03-03T23:46:15.2462094+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick3.png</Source>
+      <Name>Images\Bricks\brick3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick3.xnb</Output>
+      <Time>2016-03-03T23:46:15.2542095+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick4.png</Source>
+      <Name>Images\Bricks\brick4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick4.xnb</Output>
+      <Time>2016-03-03T23:46:15.2612104+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick5.png</Source>
+      <Name>Images\Bricks\brick5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick5.xnb</Output>
+      <Time>2016-03-03T23:46:15.2742108+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick6.png</Source>
+      <Name>Images\Bricks\brick6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick6.xnb</Output>
+      <Time>2016-03-03T23:46:15.2822113+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick7.png</Source>
+      <Name>Images\Bricks\brick7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick7.xnb</Output>
+      <Time>2016-03-03T23:46:15.289213+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bricks\brick8.png</Source>
+      <Name>Images\Bricks\brick8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick8.xnb</Output>
+      <Time>2016-03-03T23:46:15.2322098+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin1.png</Source>
+      <Name>Images\Coins\coin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin1.xnb</Output>
+      <Time>2016-03-03T23:46:56.3185517+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin2.png</Source>
+      <Name>Images\Coins\coin2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin2.xnb</Output>
+      <Time>2016-03-03T23:46:56.3265538+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin3.png</Source>
+      <Name>Images\Coins\coin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin3.xnb</Output>
+      <Time>2016-03-03T23:46:56.3365528+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin4.png</Source>
+      <Name>Images\Coins\coin4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin4.xnb</Output>
+      <Time>2016-03-03T23:46:56.3445533+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin5.png</Source>
+      <Name>Images\Coins\coin5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin5.xnb</Output>
+      <Time>2016-03-03T23:46:56.3525542+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin6.png</Source>
+      <Name>Images\Coins\coin6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin6.xnb</Output>
+      <Time>2016-03-03T23:46:56.3615548+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Coins\coin7.png</Source>
+      <Name>Images\Coins\coin7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin7.xnb</Output>
+      <Time>2016-03-03T23:46:56.3695557+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\coinGold.png</Source>
+      <Name>Images\Other\coinGold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\coinGold.xnb</Output>
+      <Time>2016-03-03T23:46:56.3085511+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\spikes.png</Source>
+      <Name>Images\Other\spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\spikes.xnb</Output>
+      <Time>2016-03-03T23:47:40.3663508+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\INSTRUCTIONS WITH GRAPHICS.jpg</Source>
+      <Name>Images\Menu\INSTRUCTIONS WITH GRAPHICS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Menu\INSTRUCTIONS WITH GRAPHICS.xnb</Output>
+      <Time>2016-03-03T23:49:47.8575129+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\MENU INTERFACE game.jpg</Source>
+      <Name>Images\Menu\MENU INTERFACE game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Menu\MENU INTERFACE game.xnb</Output>
+      <Time>2016-03-03T23:49:47.8465114+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\ball.png</Source>
+      <Name>Images\Other\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\ball.xnb</Output>
+      <Time>2016-03-03T23:50:35.88677+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\finish.png</Source>
+      <Name>Images\Other\finish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\finish.xnb</Output>
+      <Time>2016-03-03T23:50:35.9407926+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\buttonFont.spritefont</Source>
+      <Name>Images\Other\buttonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\buttonFont.xnb</Output>
+      <Time>2016-03-03T23:50:35.90777+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\font.spritefont</Source>
+      <Name>Images\Other\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\font.xnb</Output>
+      <Time>2016-03-03T23:50:35.9737742+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Other\menuFont.spritefont</Source>
+      <Name>Images\Other\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\menuFont.xnb</Output>
+      <Time>2016-03-03T23:50:35.8557676+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Jewel Quest 1 OST- Level 1.mp3</Source>
+      <Name>Music\Jewel Quest 1 OST- Level 1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 1.xnb</Output>
+      <Extra>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 1.wma</Extra>
+      <Time>2016-03-11T19:40:36.5905343+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Jewel Quest 1 OST- Level 2.mp3</Source>
+      <Name>Music\Jewel Quest 1 OST- Level 2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 2.xnb</Output>
+      <Extra>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 2.wma</Extra>
+      <Time>2016-03-11T19:40:36.8185471+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Jewel Quest 1 OST- Level 3.mp3</Source>
+      <Name>Music\Jewel Quest 1 OST- Level 3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 3.xnb</Output>
+      <Extra>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 3.wma</Extra>
+      <Time>2016-03-11T19:40:36.9365539+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Jewel Quest 1 OST- Level 4.mp3</Source>
+      <Name>Music\Jewel Quest 1 OST- Level 4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 4.xnb</Output>
+      <Extra>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 4.wma</Extra>
+      <Time>2016-03-11T19:40:37.02956+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Jewel Quest 1 OST- Level 5.mp3</Source>
+      <Name>Music\Jewel Quest 1 OST- Level 5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 5.xnb</Output>
+      <Extra>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 5.wma</Extra>
+      <Time>2016-03-11T19:40:37.1055638+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{530B109E-35C0-48E9-B65F-70E620F86B16}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-21T12:07:08.0043646+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

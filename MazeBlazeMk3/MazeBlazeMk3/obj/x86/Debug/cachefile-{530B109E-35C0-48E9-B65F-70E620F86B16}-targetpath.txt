@@ -1,0 +1,34 @@
+Content\Images\Bricks\brick1.xnb
+Content\Images\Bricks\brick2.xnb
+Content\Images\Bricks\brick3.xnb
+Content\Images\Bricks\brick4.xnb
+Content\Images\Bricks\brick5.xnb
+Content\Images\Bricks\brick6.xnb
+Content\Images\Bricks\brick7.xnb
+Content\Images\Bricks\brick8.xnb
+Content\Images\Coins\coin1.xnb
+Content\Images\Coins\coin2.xnb
+Content\Images\Coins\coin3.xnb
+Content\Images\Coins\coin4.xnb
+Content\Images\Coins\coin5.xnb
+Content\Images\Coins\coin6.xnb
+Content\Images\Coins\coin7.xnb
+Content\Images\Other\coinGold.xnb
+Content\Images\Other\spikes.xnb
+Content\Images\Menu\INSTRUCTIONS WITH GRAPHICS.xnb
+Content\Images\Menu\MENU INTERFACE game.xnb
+Content\Images\Other\ball.xnb
+Content\Images\Other\finish.xnb
+Content\Images\Other\buttonFont.xnb
+Content\Images\Other\font.xnb
+Content\Images\Other\menuFont.xnb
+Content\Music\Jewel Quest 1 OST- Level 1.xnb
+Content\Music\Jewel Quest 1 OST- Level 1.wma
+Content\Music\Jewel Quest 1 OST- Level 2.xnb
+Content\Music\Jewel Quest 1 OST- Level 2.wma
+Content\Music\Jewel Quest 1 OST- Level 3.xnb
+Content\Music\Jewel Quest 1 OST- Level 3.wma
+Content\Music\Jewel Quest 1 OST- Level 4.xnb
+Content\Music\Jewel Quest 1 OST- Level 4.wma
+Content\Music\Jewel Quest 1 OST- Level 5.xnb
+Content\Music\Jewel Quest 1 OST- Level 5.wma

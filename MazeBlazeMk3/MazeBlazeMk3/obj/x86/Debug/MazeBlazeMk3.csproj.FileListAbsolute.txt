@@ -1,0 +1,40 @@
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick1.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick2.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick3.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick4.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick5.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick6.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick7.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Bricks\brick8.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin1.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin2.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin3.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin4.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin5.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin6.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Coins\coin7.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\coinGold.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\spikes.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Menu\INSTRUCTIONS WITH GRAPHICS.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Menu\MENU INTERFACE game.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\ball.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\finish.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\buttonFont.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\font.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Images\Other\menuFont.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\MazeBlazeMk3.exe
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\MazeBlazeMk3.pdb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\obj\x86\Debug\MazeBlazeMk3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\obj\x86\Debug\MazeBlazeMk3.exe
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\obj\x86\Debug\MazeBlazeMk3.pdb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 1.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 2.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 3.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 4.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 5.xnb
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 1.wma
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 2.wma
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 3.wma
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 4.wma
+C:\Users\user\Documents\Programming\C#\Projects\MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3\bin\x86\Debug\Content\Music\Jewel Quest 1 OST- Level 5.wma
