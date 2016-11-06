@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeBlazeMk3", "MazeBlazeMk3\MazeBlazeMk3\MazeBlazeMk3.csproj", "{CAED3AD7-4518-4201-9DB8-2F36AEEBC692}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MazeBlazeMk3Content", "MazeBlazeMk3\MazeBlazeMk3Content\MazeBlazeMk3Content.contentproj", "{530B109E-35C0-48E9-B65F-70E620F86B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAED3AD7-4518-4201-9DB8-2F36AEEBC692}.Debug|x86.ActiveCfg = Debug|x86
+		{CAED3AD7-4518-4201-9DB8-2F36AEEBC692}.Debug|x86.Build.0 = Debug|x86
+		{CAED3AD7-4518-4201-9DB8-2F36AEEBC692}.Release|x86.ActiveCfg = Release|x86
+		{CAED3AD7-4518-4201-9DB8-2F36AEEBC692}.Release|x86.Build.0 = Release|x86
+		{530B109E-35C0-48E9-B65F-70E620F86B16}.Debug|x86.ActiveCfg = Debug|x86
+		{530B109E-35C0-48E9-B65F-70E620F86B16}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
